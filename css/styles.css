@@ -1,0 +1,61 @@
+body {
+  background-color: #2c3639;
+  margin: 0px;
+  font-family: "Merriweather Sans", sans-serif;
+  text-align: center;
+  color: ivory;
+}
+h1 {
+  margin: 160px auto 0px auto;
+}
+.sub-title {
+  font-size: 1em;
+}
+.title {
+  background-color: #3f4e4f;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  padding-top: 50px;
+  font-family: "Sacramento", cursive;
+  font-size: 3rem;
+  color: rgb(231, 230, 230);
+}
+.cavalo {
+  text-decoration: underline;
+}
+.t-cloud {
+  position: absolute;
+  right: 400px;
+  top: 90px;
+}
+.b-cloud {
+  position: absolute;
+  left: 480px;
+  bottom: 420px;
+}
+.mountain {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 150px;
+  border: 3px solid black;
+  border-bottom: 1px solid black;
+}
+.middle-container {
+}
+.profile-pic {
+  height: 250px;
+  position: relative;
+  top: 25px;
+  margin-bottom: 15px;
+}
+.amongus {
+  height: 200px;
+}
+.osu-gif {
+  height: 250px;
+}
+.botton-container {
+}
