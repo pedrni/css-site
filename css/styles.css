@@ -3,10 +3,21 @@ body {
   margin: 0px;
   font-family: "Merriweather Sans", sans-serif;
   text-align: center;
-  color: ivory;
+  color: #dcd7c9;
 }
 h1 {
   margin: 160px auto 0px auto;
+}
+h2 {
+  color: #dcd7c9;
+}
+h3 {
+  color: #dcd7c9;
+}
+hr {
+  background-color: #a27b5c;
+  border: 0px;
+  height: 2px;
 }
 .sub-title {
   font-size: 1em;
@@ -20,7 +31,7 @@ h1 {
   padding-top: 50px;
   font-family: "Sacramento", cursive;
   font-size: 3rem;
-  color: rgb(231, 230, 230);
+  color: #dcd7c9;
 }
 .cavalo {
   text-decoration: underline;
@@ -35,14 +46,6 @@ h1 {
   left: 480px;
   bottom: 420px;
 }
-.mountain {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 150px;
-  border: 3px solid black;
-  border-bottom: 1px solid black;
-}
 .middle-container {
 }
 .profile-pic {
@@ -53,9 +56,28 @@ h1 {
 }
 .amongus {
   height: 200px;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 50px;
 }
 .osu-gif {
-  height: 250px;
+  width: 50%;
+  float: right;
+  margin-bottom: 50px;
+  margin-left: 30px;
 }
 .botton-container {
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.b {
+  height: 200px;
+  text-align: right;
+}
+.a {
+  margin-bottom: 200px;
 }
