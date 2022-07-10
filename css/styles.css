@@ -70,7 +70,7 @@ p {
 .osu-gif {
   width: 50%;
   float: right;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-left: 30px;
 }
 
@@ -104,7 +104,6 @@ p {
 a {
   color: #dcd7c9;
   margin: 20px;
-  text-decoration: none;
 }
 .intro {
   width: 30%;
